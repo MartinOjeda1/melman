@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Agdasima&display=swap');
+.pagina2{
+    background-image: linear-gradient(to bottom, #000101, #193435, #22656b, #239ba8, #12d4eb);
+}
+.mamaa{
+    background-image: linear-gradient(to right top, #ffffff, #f6f9ff, #e7f5ff, #d3f2ff, #bdf0fc, #aef0f9, #a0f0f4, #93f0ec, #85f3ed, #75f5ee, #62f8ef, #4afaef);
+}
+.logo{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.titulo2{
+    text-align: center;
+    font-family: 'Agdasima', sans-serif;
+    font-size: 30px;
+}
+.ubi2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+img{
+    width:  350px;
+}
+.cartitas{
+    width: 1300px;
+    background-color: darkturquoise;
+}
+.card{
+    margin: 50px;
+}
+iframe{
+    margin: 40px;
+}
+.redess{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.grid-container{
+    display: grid;
+    grid-template-columns: 100px 100px auto 270px;
+    grid-template-rows: 100px 100px;
+}
+.grid-item2{
+    height: 70px;
+    grid-row: 2;
+}
+.grid-item4{
+    grid-column: 4;
+}
+.grid-container2{
+    display: grid;
+    grid-template-columns: 90px 90px 90px ;
+    grid-template-rows: auto;
+}
+.grid-item6{
+    grid-column: 2;
+}
+.grid-item7{
+    grid-column: 3;
+}
+
+
